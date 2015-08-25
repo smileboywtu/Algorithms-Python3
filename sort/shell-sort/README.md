@@ -58,16 +58,16 @@ if you want to see more gaps, just read this [wikipedia](https://en.wikipedia.or
     }
     putchar('\n');
 >>>
->>> we will get:
->>>> the current gap is: 5
+>>> **we will get:**
+>>>> *the current gap is:* 5
 >>>>
 >>>>  1 34 23 5 21 2 67 45 56 87
 >>>>
->>>> the current gap is: 2
+>>>> *the current gap is:* 2
 >>>>
 >>>>  1 2 21 5 23 34 56 45 67 87
 >>>>
->>>> the current gap is: 1
+>>>> *the current gap is:* 1
 >>>>
 >>>> 1 2 5 21 23 34 45 56 67 87
 
