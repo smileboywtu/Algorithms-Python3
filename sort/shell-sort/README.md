@@ -30,7 +30,9 @@
 if you want to see more gaps, just read this [wikipedia](https://en.wikipedia.org/wiki/Shellsort).
 >>>
 >>> after sort you just get the right sort sequence: [1, 2, 5, 21, 23, 34, 45, 56, 67, 87].
+
 >### Test
+
 >>  we provide the C and Python code for this algorithm.let look at the c code here.
 >>####Code C
         void shellsort(int v[], int n){
