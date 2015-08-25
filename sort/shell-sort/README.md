@@ -14,14 +14,17 @@
 > [10/2, 5/2, 2/2]  => [5, 2, 1]
 >### Details
 >
+
 >> ####pick gap 5
 >>> the source data is divided into {1, 2}, {34, 67}, {23, 45}, {56, 5}, {87, 21}, here you need to just sort the serveral groups respectively.
 >>>
 >>> you will get the array:    [1, 34, 23, 5, 21, 2, 67, 45, 56, 87] after using gap 5 to sort.
+
 >> ####pick gap 2
 >>> the source data is divided into {1, 23, 21, 67, 56}, {34, 5, 2, 45, 87}, sort the 2 groups data respectively. 
 >>>
 >>> you will get the array:    [1, 2, 5, 21, 23, 34, 45, 56, 67, 87] after using gap 2 to sort.
+
 >> ####pick gap 1
 >>> because the gap is 1, you will get the only one group of data, the whole array.notice than every designed gap sequence must contains gap 1.
 if you want to see more gaps, just read this [wikipedia](https://en.wikipedia.org/wiki/Shellsort).
