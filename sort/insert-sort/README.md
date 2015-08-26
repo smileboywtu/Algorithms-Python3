@@ -1,9 +1,10 @@
 # Introduction
 >   Here we just look at the insertion sort using python.this algorithm is very efficient for small data set.
->
+
 # Description
 >   we just look at an example for this algorithm.
->   
+>  
+
 >## Example
 >>  List: [23, 45, 56, 2, 13, 89, 34, 14, 9, 1]
 >>  
@@ -19,6 +20,7 @@
 >>
 >>  *here we just sort the source array by decreasing order.*
 >>
+
 >## Details
 >>>  **I**. choose 45 from unsorted sequence, compare it with the last one in the sorted list, here the element is 23.
 >>
@@ -49,6 +51,7 @@
 >>> **...**
 >>
 >> ==========================================================
+
 >## Code Python
 >>  Just look at the python implemention here:
 >>
@@ -71,6 +74,7 @@
 >>
         print "for ", index, "the list is: ", v
 >>
+
 >## Rusult:
 >>
 >>  start to test the insert sort: 
