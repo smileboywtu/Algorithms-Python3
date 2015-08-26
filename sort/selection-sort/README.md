@@ -16,7 +16,7 @@ then delete 8 from the source number. you will get 14753. according to the princ
 
 >>> **II**. we already know 7 is the bigger digit in 14753, so delete 7 from the source number, after that you will get 1453, you now need to delete 2 digits.
 
->> **...**
+>>> **...**
 
 >>## But How?
 
