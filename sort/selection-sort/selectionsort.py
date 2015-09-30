@@ -1,6 +1,6 @@
 # this program show you the selection sort
 print """
-	
+
 	selection sort.
 
 """
@@ -14,9 +14,7 @@ def selectionsort(v, n):
 		while j < n:
 			if v[index] < v[j]:
 				# swap
-				temp = v[index]
-				v[index] = v[j]
-				v[j] = temp
+				v[index], v[j] = v[j], v[index]
 			j = j + 1
 		print "for index ", index, "the current list is: ", v
 
