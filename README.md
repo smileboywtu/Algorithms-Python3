@@ -1,4 +1,4 @@
-# Algorithms using python
+# Algorithms Python Version
 start to use python to learn algorithms
 
 this is very interesting thing
