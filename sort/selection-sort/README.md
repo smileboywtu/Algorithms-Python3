@@ -54,17 +54,15 @@ then delete 8 from the source number. you will get 14753. according to the princ
                 j = index
                 while j<n:
                     if v[index] < v[j]:
-                        temp = v[index]
-                        v[index] = v[j]
-                        v[j] = temp
+                        v[index], v[j] = v[j], v[index]
                     j = j + 1
-                    
+
 >>## Test
-        
+
 >>> we will use the below code to test the result
 >>>
        print "for index ", index, "the current list is: ", v
-       
+
 >>## Result
 
 >>>source list:  [1, 4, 7, 5, 8, 3]
@@ -84,4 +82,3 @@ then delete 8 from the source number. you will get 14753. according to the princ
 >>> after sort:  [8, 7, 5, 4, 3, 1]
 
 >>> Good Bye.
-   
