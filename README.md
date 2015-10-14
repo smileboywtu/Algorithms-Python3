@@ -30,10 +30,8 @@ Ubuntu
   - Mail: 294101042@qq.com
 
 [1]: https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/quick-sort "quick sort"
-[2]: https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/merge-sort
-"merge sort"
-[3]: https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/insert-sort
-"insert sort"
+[2]: https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/merge-sort "merge sort"
+[3]: https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/insert-sort "insert sort"
 [4]:https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/shell-sort "shell sort"
 [5]:https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/selection-sort "selection sort"
 [6]:https://github.com/smileboywtu/Algorithms-Python3/tree/master/sort/bubble-sort "bubble sort"
