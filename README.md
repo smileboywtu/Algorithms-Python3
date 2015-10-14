@@ -19,7 +19,7 @@ Ubuntu
   + Shell sort
   + Selection sort
   + Bubble sort
-	+ Heap sort
+  + Heap sort
 
 ## search
 
